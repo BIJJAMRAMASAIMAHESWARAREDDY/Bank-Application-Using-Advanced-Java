@@ -6,6 +6,7 @@
   4) JSP
   5) MYSQL
   6) HTML & CSS
+  7) Github
 
 # Components Required : 
  1) TOMACAT SERVER
